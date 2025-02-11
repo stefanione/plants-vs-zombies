@@ -1,3 +1,2 @@
 # plants-vs-zombies
-este un proiect codat in cpp in care am prezentat un joc de tip plants vs zombies minimalistic din punctul meu de vedere dar conceptual destul de complex
-in acest repository veti gasi si accesa fisierele jocului.
+This is a game coded in C++. The design is minimalistic but the concepts are pretty complex. The meshes are made manually and so the animations. 
