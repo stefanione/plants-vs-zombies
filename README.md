@@ -1,4 +1,4 @@
-# plants-vs-zombies
+# Plants-VS-Zombies
 
 This is a game coded in C++. The design is minimalistic but the concepts are pretty complex. The meshes are made manually and so the animations. The idea of the game si to survive enemy attacks. The enemies are spawned randomnly. To survive the attacks the player must use cannons which vary based on both color and price. The cannons can shoot down only enemies corresponding to their colour. To purchase cannons, stars will be used which spawn randomnly on the screen. To collect them, the player has to select them using the mouse. 
 
